@@ -1,4 +1,4 @@
-package CheronEzzaamariSoysal.model;
+package cheron_ezzaamari_soysal.model;
 
 /*public final class Id {
 

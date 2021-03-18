@@ -1,4 +1,4 @@
-package CheronEzzaamariSoysal.model;
+package cheron_ezzaamari_soysal.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package CheronEzzaamariSoysal;
+package cheron_ezzaamari_soysal;
 
 import static org.junit.Assert.assertTrue;
 

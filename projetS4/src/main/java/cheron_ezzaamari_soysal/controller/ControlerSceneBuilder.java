@@ -1,4 +1,4 @@
-package CheronEzzaamariSoysal.controller;
+package cheron_ezzaamari_soysal.controller;
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.pdf.PdfWriter;
