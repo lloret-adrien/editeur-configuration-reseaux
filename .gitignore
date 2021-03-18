@@ -36,7 +36,6 @@ projetS4/dependency-reduced-pom.xml
 projetS4/buildNumber.properties
 .mvn/timing.properties
 .idea/
-*.iml
 # CMake
 projetS4/cmake-build-debug/
 
