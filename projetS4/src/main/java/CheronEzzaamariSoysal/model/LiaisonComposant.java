@@ -1,4 +1,4 @@
-package main.model;
+package CheronEzzaamariSoysal.model;
 
 import javafx.scene.shape.Line;
 

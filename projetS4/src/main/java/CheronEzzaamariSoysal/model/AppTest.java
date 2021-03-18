@@ -1,4 +1,4 @@
-package main.model;
+package CheronEzzaamariSoysal.model;
 
 public class AppTest {
     public static void main(String[] args) {

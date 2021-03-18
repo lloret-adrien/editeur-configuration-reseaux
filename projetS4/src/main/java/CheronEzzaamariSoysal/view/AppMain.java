@@ -1,4 +1,4 @@
-package main.view;
+package CheronEzzaamariSoysal.view;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package main.model;
+package CheronEzzaamariSoysal.model;
 
 /*public final class Id {
 

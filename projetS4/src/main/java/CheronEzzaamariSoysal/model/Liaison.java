@@ -1,4 +1,4 @@
-package main.model;
+package CheronEzzaamariSoysal.model;
 
 public abstract class Liaison {
 }
