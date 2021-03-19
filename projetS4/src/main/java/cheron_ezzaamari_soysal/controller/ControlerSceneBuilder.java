@@ -18,7 +18,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Line;
 import javafx.util.Duration;
-import main.model.*;
+import cheron_ezzaamari_soysal.model.*;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
