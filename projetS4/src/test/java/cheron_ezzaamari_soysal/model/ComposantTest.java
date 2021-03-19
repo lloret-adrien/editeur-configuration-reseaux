@@ -25,7 +25,7 @@ class ComposantTest {
         for (int i = 0; i < NOMBRE_DE_THREADS; i++)
             service.execute(creer100Composants);
         latch.await();
-        assertEquals(NOMBRE_DE_THREADS * 100, new Composant("Switch").getId());
+        assertEquals(NOMBRE_DE_THREADS * NOMBRE_DE_COMPOSANTS, new Composant("Switch").getId());
     }
 
 }
